@@ -1,0 +1,1 @@
+Soal ini sebenarnya adalah soal yang simple yaitu pada akhirnya kita hanya perlu mengubah nilai binary ke ascii, namun yang membuat sedikit berfikir adalah bagaimana alur atau algoritma dari bash script untuk meng generate file file gambar nya.
