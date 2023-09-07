@@ -1,0 +1,1 @@
+Soal ini hanya lah soal mengenai operasi matematika untuk mendapatkan flag nya, namun yang jadi masalah adalah kita perlu poin untuk sebagai syarat mendapatkan flag dan dibatasi dengan waktu, sehingga diperlukan otomasi script.
