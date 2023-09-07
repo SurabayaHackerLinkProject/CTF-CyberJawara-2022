@@ -1,0 +1,1 @@
+ini adalah soal enkripsi yang sering ditemui, dimana kita menggunakan xor dengan key. untuk mencari key nya hanya perlu di bruteforce. apalagi enkripsi xor dengan one byte key sangat mudah di bruteforce attack.
