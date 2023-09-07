@@ -1,1 +1,1 @@
-# Dokumentasi-CTF-CJ-2022
+# CTF Documentation
