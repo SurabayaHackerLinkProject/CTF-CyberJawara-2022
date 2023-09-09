@@ -1,0 +1,1 @@
+Python 2 mempunyai vulnerability dalam func input() nya, dimana semua input yang masuk tidak pernah difilter tipe data nya by default, yang menyebabkan kita bisa menginject input nya dengan memanggil module os dan masuk ke system nya menggunakan shell.
