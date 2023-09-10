@@ -1,0 +1,1 @@
+Soal yang sangat membutuhkan banyak trik, menggunakan teknik Blind SQL Injection sebagai teknik untuk mendapatkan info info dari database dengan bertahap, dan juga perlu memikirkan bagaimana alur nya dan atau query nya seperti apa untuk mendapatkan info yang sesuai.
