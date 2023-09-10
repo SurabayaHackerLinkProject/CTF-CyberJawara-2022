@@ -1,0 +1,1 @@
+Pada soal kali ini kita diberikan sebuah soal berupa web sederhana, dimana didalamnya hanya memiliki fungsionalitas yaitu untuk membeli sebuah flag. Nah disini cara untuk mendapatkan flag nya perlu membeli flag tersebut sesuai dengan harga/price dari flag nya, namun karena uang/money yang diberikan secara default tidak mencukupi, jadi tidak dapat membeli flag tersebut.
